@@ -1,11 +1,13 @@
+Abaixo estão algumas anotações úteis sobre códigos para Git e GitHub.
+
 $ git add .
-Para quando mudar algum arquivo
+--Para quando mudar algum arquivo--
 
 $ git status
-Para ver o status
+--Para ver o status--
 
 $ git commit -m "Aqui coloca o que foi feito"
-Para commitar
+--Para commitar--
 
 $ git push origin main
-Para mandar os commits locais para a nuvem
+--Para mandar os commits locais para a nuvem--
